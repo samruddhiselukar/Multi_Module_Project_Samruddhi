@@ -1,0 +1,13 @@
+# SBT specific files and directories
+target/
+.project
+.cache/
+.classpath
+.eclipse/
+.idea/
+*.iml
+
+# Other project specific files and directories
+logs/
+*.log
+*.swp
